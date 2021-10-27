@@ -2,7 +2,7 @@
 
 ## Idioma
 [![Link readme english](https://img.shields.io/badge/-En-blue)](https://github.com/kahmariano/kahmariano//main/README.md)
-[![Link readme portuguese](https://img.shields.io/badge/-Pt__Br-orange)]()
+[![Link readme portuguese](https://img.shields.io/badge/-Pt__Br-orange)](https://github.com/kahmariano/kahmariano/blob/main/READMEPt_br.md)
 
 ## Sobre mim - profissional
  * Estudando Rocketseat Pro 🚀
