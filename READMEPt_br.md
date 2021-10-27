@@ -1,4 +1,4 @@
-# Oi 👋 tudo bem com você? Aqui è a Kah <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="gif oi" width="70"/>
+# Oi 👋 tudo bem com você? Aqui é a Kah <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="gif oi" width="70"/>
 
 ## Idioma
 [![Link readme english](https://img.shields.io/badge/-En-blue)](https://github.com/kahmariano/kahmariano//main/README.md)
@@ -11,7 +11,7 @@
  * Atualmente trabalho como barbeira 💈✂
 ## Sobre mim - pessoal
 
- * Amo animais pets 🐶
+ * Amo pets 🐶
  * Hobby ler e assistir séries 📗
  * Moro em Rio Claro - SP 🏠
  * Quero viajar pelo mundo 🌎
