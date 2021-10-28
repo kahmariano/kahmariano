@@ -1,7 +1,7 @@
 # Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> tudo bem com você? Aqui é a Kah <img src="https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif" alt="gif oi" width="70"/>
 
 ## Idioma
-[![Link readme english](https://img.shields.io/badge/-En-blue)](https://github.com/kahmariano/kahmariano/main/README.md)
+[![Link readme english](https://img.shields.io/badge/-En-blue)](https://github.com/kahmariano/kahmariano/blob/main/README.md)
 [![Link readme portuguese](https://img.shields.io/badge/-Pt__Br-orange)](https://github.com/kahmariano/kahmariano/blob/main/READMEPt_br.md)
 
 ## Sobre mim - profissional
