@@ -16,7 +16,7 @@
  * I live in Rio Claro - SP 🏠
  * I want to travel the world 🌎
 
-![kahmariano GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmariano&show_icons=true&theme=dracula)
+![kahmariano GitHub stats](https://github-readme-stats.vercel.app/api?username=kahmariano&show_icons=true&theme=midnight-purple)
 
 ## Contact 📞 👇
 
